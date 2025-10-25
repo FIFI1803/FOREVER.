@@ -47,3 +47,6 @@ coverage/
 .Trashes
 ehthumbs.db
 Thumbs.db
+.next/
+node_modules/
+.env.local
